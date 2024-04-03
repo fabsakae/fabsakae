@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @fabsakae
-- 👀 I’m looking for a internship opportunity in software development to apply and expand my technical skills.
-- 🌱 I’m inthusiastic studant of Systems Analysis and Development at University Estácio de Sá, with understanding of concepts and pratical experiences in JAVA, PYTHON, PL SQL, HTML5, CSS, JAVASCRIPT, PHP, SCRUM, AUTOMATIC TESTING, CLOUD COMPUTING (AWS).
-- 💞️ I’m looking forward to the opportunity to work and contribute in a dynamic and innovate environment, where i can apply my passion for technology, learn from experienced professionals and contribute to impactful solution.
-- 📫 How to reach me fabiola.sakae@gmail.com
+## Bem-vindo(a) ao perfil de Fabíola Sakae 😁
 
-<!---
-fabsakae/fabsakae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+   <a href="https://github.com/fabsakae">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/fabsakae/fabsakae/tree/main&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/fabsakae/fabsakae/tree/main&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://www.youtube.com/@Fabsakae" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fabsakaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/RxJ8eHhx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fabiola.sakae@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabíola-sakae-40242841" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
