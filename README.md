@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil de Fabíola Sakae 😁
+  <h1 align="center">Hi 👋, I'm Fabíola Sakae</h1>
 
+
+
+<p>&nbsp;<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=highcontrast&locale=en" alt="fabsakae" /></p>
+<p><img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabsakae&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabsakae" /></p>
  <div>
    <a href="https://github.com/fabsakae">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
