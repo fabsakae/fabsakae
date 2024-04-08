@@ -4,7 +4,7 @@
    <a href="https://github.com/fabsakae">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabsakae&layout=compact&langs_count=6&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizalemos=(https://github.com/anuraghazra/github-readme-stats)"/>
+   <img height="180em" src= [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabsakae)](https://github.com/anuraghazra/github-readme-stats)/>
 </div>
     
 <div style="display: inline_block"><br>
