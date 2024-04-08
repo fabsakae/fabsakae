@@ -2,10 +2,10 @@
 
  <div>
    <a href="https://github.com/fabsakae">
-   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=highcontrast&locale=en" alt="fabsakae" />  
-   <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabsakae&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabsakae"/>
+   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=highcontrast&locale=en" alt="fabsakae" />  
+   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabsakae&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabsakae"/>
     
-  </div>
+ </div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
