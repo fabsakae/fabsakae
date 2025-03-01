@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil de Fabíola Sakae!
-##Welcome to the profile of Fabíola Sakae! 😁
+##Welcome to the profile of Fabíola Sakae!
+##Bem vindos ao perfil de Fabíola Sakae! 😁
 
  <div>
    <a href="https://github.com/fabsakae">
@@ -19,8 +19,8 @@
  
 <br>
  
-### Para me encontrar clique nas redes abaixo!
 ###To find me click on the networks below!
+### Para me encontrar clique nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@Fabsakae" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
