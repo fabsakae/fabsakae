@@ -1,10 +1,7 @@
 ## Welcome to the profile of Fabíola Sakae!
 ## Bem vindos ao perfil de Fabíola Sakae! 😁
 
-### 🛠 My Tech Stack (Cloud & DevOps)
-
-### 🛠 My Tech Stack (Cloud & DevOps)
-
+### 🛠 My Tech Stack (Cloud & DevOps
 
 <img src="https://shields.io" />
 <img src="https://shields.io" />
