@@ -4,7 +4,29 @@
 
     
  </div>
-    
+ ### 🛠 My Tech Stack (Cloud & DevOps)
+
+<div>
+  <img src="https://shields.io" target="_blank">
+  <img src="https://shields.io" target="_blank">
+  <img src="https://shields.io" target="_blank">
+  <img src="https://shields.io" target="_blank">
+  <img src="https://shields.io" target="_blank">
+  <img src="https://shields.io" target="_blank">
+</div>
+
+<br>
+
+### 🚀 Current Projects & Focus
+
+- 🏗️ **Automated Infrastructure:** Scaling e-commerce environments using **Terraform** and **AWS**.
+- ☸️ **Container Orchestration:** Deploying resilient microservices with **Kubernetes**.
+- 📈 **Observability:** Implementing monitoring for retail operations with **CloudWatch**.
+
+---
+
+### 💻 Languages & Others
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
