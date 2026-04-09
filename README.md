@@ -3,10 +3,13 @@
 
 ### 🛠 My Tech Stack (Cloud & DevOps)
 
-- **Cloud:** ![AWS](https://shields.io)
-- **IaC:** ![Terraform](https://shields.io)
-- **Containers:** ![Kubernetes](https://shields.io) ![Docker](https://shields.io)
-- **OS & CI/CD:** ![Linux](https://shields.io) ![GitHub Actions](https://shields.io)
+- ☁️ **Cloud:** AWS (Amazon Web Services)
+- 🏗️ **IaC:** Terraform
+- ☸️ **Containers:** Kubernetes & Docker
+- 🐧 **OS:** Linux (Ubuntu/WSL2)
+- ⚙️ **CI/CD:** GitHub Actions & GitHubOps
+- 📊 **Monitoring:** AWS CloudWatch/Prometeus & Grafana
+
 
 <br>
 
