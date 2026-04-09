@@ -3,12 +3,15 @@
 
 ### 🛠 My Tech Stack (Cloud & DevOps)
 
+### 🛠 My Tech Stack (Cloud & DevOps)
+
 [![AWS](https://shields.io)](https://amazon.com)
-[![Terraform](https://shields.io)](https://terraform.io)
-[![Kubernetes](https://shields.io)](https://kubernetes.io)
-[![Docker](https://shields.io)](https://docker.com)
-[![Linux](https://shields.io)](https://linux.org)
-[![GitHub Actions](https://shields.io)](https://github.com)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
 
 <br>
 
