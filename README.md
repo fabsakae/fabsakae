@@ -6,14 +6,17 @@
  </div>
  ### 🛠 My Tech Stack (Cloud & DevOps)
 
+### 🛠 My Tech Stack (Cloud & DevOps)
+
 <div>
-  <img src="https://shields.io" target="_blank">
-  <img src="https://shields.io" target="_blank">
-  <img src="https://shields.io" target="_blank">
-  <img src="https://shields.io" target="_blank">
-  <img src="https://shields.io" target="_blank">
-  <img src="https://shields.io" target="_blank">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
 </div>
+
 
 <br>
 
