@@ -1,22 +1,14 @@
-##Welcome to the profile of Fabíola Sakae!
-##Bem vindos ao perfil de Fabíola Sakae! 😁
-
-
-    
- </div>
- ### 🛠 My Tech Stack (Cloud & DevOps)
+## Welcome to the profile of Fabíola Sakae!
+## Bem vindos ao perfil de Fabíola Sakae! 😁
 
 ### 🛠 My Tech Stack (Cloud & DevOps)
 
-<div>
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-</div>
-
+[![AWS](https://shields.io)](https://amazon.com)
+[![Terraform](https://shields.io)](https://terraform.io)
+[![Kubernetes](https://shields.io)](https://kubernetes.io)
+[![Docker](https://shields.io)](https://docker.com)
+[![Linux](https://shields.io)](https://linux.org)
+[![GitHub Actions](https://shields.io)](https://github.com)
 
 <br>
 
@@ -36,18 +28,18 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-            
 </div>
  
 <br>
  
-###To find me click on the networks below!
+### To find me click on the networks below!
 ### Para me encontrar clique nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/@Fabsakae" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/fabsakaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/RxJ8eHhx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fabiola.sakae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabíola-sakae-40242841" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@Fabsakae" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://instagram.com/fabsakaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/RxJ8eHhx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:fabiola.sakae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fabíola-sakae-40242841" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
