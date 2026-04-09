@@ -1,15 +1,12 @@
 ## Welcome to the profile of Fabíola Sakae!
 ## Bem vindos ao perfil de Fabíola Sakae! 😁
 
-### 🛠 My Tech Stack (Cloud & DevOps
+### 🛠 My Tech Stack (Cloud & DevOps)
 
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
+- **Cloud:** ![AWS](https://shields.io)
+- **IaC:** ![Terraform](https://shields.io)
+- **Containers:** ![Kubernetes](https://shields.io) ![Docker](https://shields.io)
+- **OS & CI/CD:** ![Linux](https://shields.io) ![GitHub Actions](https://shields.io)
 
 <br>
 
