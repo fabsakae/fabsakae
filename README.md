@@ -5,7 +5,8 @@
 
 ### 🛠 My Tech Stack (Cloud & DevOps)
 
-[![AWS](https://shields.io)](https://amazon.com)
+
+<img src="https://shields.io" />
 <img src="https://shields.io" />
 <img src="https://shields.io" />
 <img src="https://shields.io" />
