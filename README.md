@@ -1,23 +1,24 @@
 ## Welcome to the profile of Fabíola Sakae!
 ## Bem vindos ao perfil de Fabíola Sakae! 😁
 
-### 🛠 My Tech Stack (Cloud & DevOps)
+###  My Tech Stack (Cloud & DevOps)
 
-- ☁️ **Cloud:** AWS (Amazon Web Services)
-- 🏗️ **IaC:** Terraform
-- ☸️ **Containers:** Kubernetes & Docker
-- 🐧 **OS:** Linux (Ubuntu/WSL2)
-- ⚙️ **CI/CD:** GitHub Actions & GitHubOps
-- 📊 **Monitoring:** AWS CloudWatch/Prometeus & Grafana
+-  **Cloud:** AWS (Amazon Web Services), Magalu Cloud
+-  **IaC:** Terraform
+-  **Containers:** Kubernetes & Docker
+-  **OS:** Linux (Ubuntu/WSL2)
+-  **CI/CD:** GitHub Actions & GitHubOps
+-  **Monitoring:** AWS CloudWatch/Prometeus & Grafana
+-  **Security and Automation:** Dependabot & CodeQL
 
 
 <br>
 
-### 🚀 Current Projects & Focus
+###  Current Projects & Focus
 
-- 🏗️ **Automated Infrastructure:** Scaling e-commerce environments using **Terraform** and **AWS**.
-- ☸️ **Container Orchestration:** Deploying resilient microservices with **Kubernetes**.
-- 📈 **Observability:** Implementing monitoring for retail operations with **CloudWatch**.
+-  **Automated Infrastructure:** Scaling e-commerce environments using **Terraform** and **AWS** and **Magalu Cloud**.
+-  **Container Orchestration:** Deploying resilient microservices with **Kubernetes**.
+-  **Observability:** Implementing monitoring for retail operations with **CloudWatch/Prometheus/Grafana**.
 
 ---
 
