@@ -41,25 +41,25 @@ My goal is to build reliable and secure platforms that solve real business probl
 
 🏆 AWS Certified Cloud Practitioner
 ## Architecture Portfolio
-2
+
  
-3
+
 ☁️ AWS High Availability Platform
-4
+
  
-5
+
 ☸️ Kubernetes DevSecOps Pipeline
-6
+
  
-7
+
 🔒 Shift-Left Security CI/CD
-8
+
  
-9
+
 📊 Observability Stack
-10
+
  
-11
+
 🏗 Infrastructure as Code with Terraform
 ### 💻 Languages & Others
    
