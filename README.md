@@ -3,27 +3,64 @@
  
 ## Building secure, observable and scalable cloud platforms.
 
-###  My Tech Stack (Cloud & DevOps)
+## Featured Projects
 
--  **Cloud:** AWS (Amazon Web Services), Magalu Cloud
--  **IaC:** Terraform
--  **Containers:** Kubernetes & Docker
--  **OS:** Linux (Ubuntu/WSL2)
--  **CI/CD:** GitHub Actions & GitHubOps
--  **Monitoring:** AWS CloudWatch/Prometeus & Grafana
--  **Security and Automation:** Dependabot & CodeQL
+### Cloud API Delivery (DevSecOps Platform)
+✅ Kubernetes (K3s)
+✅ GitHub Actions
+✅ CodeQL
+✅ Dependabot
+✅ PostgreSQL
+✅ Grafana
+
+[Repository]
+
+### AWS WordPress High Availability
+✅ Auto Scaling
+✅ Application Load Balancer
+✅ Amazon EFS
+✅ Amazon RDS
+
+[Repository]
 
 
-<br>
+## About Me
 
-###  Current Projects & Focus
+DevOps Engineer transitioning from 20+ years leading business operations.
 
--  **Automated Infrastructure:** Scaling e-commerce environments using **Terraform** and **AWS** and **Magalu Cloud**.
--  **Container Orchestration:** Deploying resilient microservices with **Kubernetes**.
--  **Observability:** Implementing monitoring for retail operations with **CloudWatch/Prometheus/Grafana**.
+I combine:
+- Cloud and DevOps engineering
+- Process optimization
+- Incident management
+- Business-oriented decision making
+
+My goal is to build reliable and secure platforms that solve real business problems.
 
 ---
+## Certifications
 
+🏆 AWS Certified Cloud Practitioner
+## Architecture Portfolio
+2
+ 
+3
+☁️ AWS High Availability Platform
+4
+ 
+5
+☸️ Kubernetes DevSecOps Pipeline
+6
+ 
+7
+🔒 Shift-Left Security CI/CD
+8
+ 
+9
+📊 Observability Stack
+10
+ 
+11
+🏗 Infrastructure as Code with Terraform
 ### 💻 Languages & Others
    
 <div style="display: inline_block"><br>
