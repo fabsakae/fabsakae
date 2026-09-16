@@ -1,5 +1,7 @@
-## Welcome to the profile of Fabíola Sakae!
-## Bem vindos ao perfil de Fabíola Sakae! 😁
+## DevOps | DevSecOps Engineer
+## AWS • Kubernetes • Terraform • GitHub Actions • ArgoCD
+ 
+## Building secure, observable and scalable cloud platforms.
 
 ###  My Tech Stack (Cloud & DevOps)
 
