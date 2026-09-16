@@ -127,22 +127,22 @@ https://github.com/fabsakae/Projeto-Wordpress-na-AWS-com-Docker
 
 ## Tech Stack
 
-<p align="center">
+<p align=
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
 
-<img src="https://cdn.jsdelivr.net/gh/deviconscons/amazonwebservices/amazonwebservices-original-wordmark.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg
 
-<img src="n.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg
 
-<img src="https://cdnnet/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg
 
-<img src="https://cdn.jsdelivr.net/gh/evicon/icons/docker/docker-original-wordmark.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/ubactions/githubactions-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svgcdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
 
-<img src="https://cdn.jsdelivr.net/s/devicon/icons/java/java-original.svg
-
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
 </p>
 
 ---
@@ -150,11 +150,9 @@ https://github.com/fabsakae/Projeto-Wordpress-na-AWS-com-Docker
 ## GitHub Stats
 
 <p align="center">
+  https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=tokyonight
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabsakaokyonight
-
-<img height="180em" src=ats.vercel.app/api/top-langs/?username=fabsakae&layout=compact&theme=tokyonight
-
+  https://github-readme-stats.vercel.app/api/top-langs/?username=fabsakae&layout=compact&theme=tokyonight
 </p>
 
 ---
