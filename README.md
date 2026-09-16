@@ -1,83 +1,192 @@
+# Hi, I'm Fabíola Sakae 👋
+
 ## DevOps | DevSecOps Engineer
-## AWS • Kubernetes • Terraform • GitHub Actions • ArgoCD
- 
-## Building secure, observable and scalable cloud platforms.
 
-## Featured Projects
+AWS • Kubernetes • Terraform • GitHub Actions • ArgoCD • Docker • Linux
 
-### Cloud API Delivery (DevSecOps Platform)
-✅ Kubernetes (K3s)
-✅ GitHub Actions
-✅ CodeQL
-✅ Dependabot
-✅ PostgreSQL
-✅ Grafana
+Building secure, scalable and observable cloud platforms through Infrastructure as Code, GitOps and DevSecOps practices.
 
-[Repository]
+<p align="left">
+  https://www.linkedin.com/in/fabíola-sakae-40242841
+    <img src="g.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  </a>
+  
+  <a href="https://github.com/fabsakae">
+    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+  </a>
+  
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor>
 
-### AWS WordPress High Availability
-✅ Auto Scaling
-✅ Application Load Balancer
-✅ Amazon EFS
-✅ Amazon RDS
-
-[Repository]
-
+---
 
 ## About Me
 
-DevOps Engineer transitioning from 20+ years leading business operations.
+DevOps and DevSecOps Engineer with hands-on experience in AWS Cloud, Kubernetes, Terraform and GitOps practices.
 
-I combine:
-- Cloud and DevOps engineering
-- Process optimization
-- Incident management
-- Business-oriented decision making
+After more than 20 years leading business operations, I transitioned into Cloud and Platform Engineering, combining technical expertise with strong operational, process optimization and problem-solving skills.
 
-My goal is to build reliable and secure platforms that solve real business problems.
+Today I focus on building secure, scalable and observable environments through Infrastructure as Code, automation and DevSecOps practices.
 
 ---
-## Certifications
 
-🏆 AWS Certified Cloud Practitioner
+## Highlights
+
+✅ AWS Certified Cloud Practitioner
+
+✅ 15+ Cloud & DevOps Projects
+
+✅ Kubernetes (K3s, Minikube & EKS)
+
+✅ Infrastructure as Code with Terraform
+
+✅ CI/CD and GitOps with GitHub Actions & ArgoCD
+
+✅ Observability with Prometheus & Grafana
+
+✅ Shift-Left Security with CodeQL, Dependabot and Checkov
+
+---
+
+## Featured Projects
+
+### ☸️ Cloud API Delivery (DevSecOps Platform)
+
+Secure and automated delivery platform using Kubernetes and DevSecOps practices.
+
+**Tech Stack**
+- Kubernetes (K3s)
+- GitHub Actions
+- CodeQL
+- Dependabot
+- PostgreSQL
+- Grafana
+- Docker
+
+🔗 Repository:
+https://github.com/fabsakae/cloud-api-delivery-k3s
+
+---
+
+### ☁️ AWS WordPress High Availability
+
+Highly available WordPress architecture running on AWS.
+
+**Tech Stack**
+- EC2
+- Auto Scaling Group
+- Application Load Balancer
+- Amazon EFS
+- Amazon RDS
+- Docker
+- VPC
+
+🔗 Repository:
+https://github.com/fabsakae/Projeto-Wordpress-na-AWS-com-Docker
+
+---
+
 ## Architecture Portfolio
 
- 
+### ☁️ AWS High Availability Platform
 
-☁️ AWS High Availability Platform
+- EC2
+- ALB
+- Auto Scaling Group
+- EFS
+- RDS
+- VPC
 
- 
+### ☸️ Kubernetes DevSecOps Pipeline
 
-☸️ Kubernetes DevSecOps Pipeline
+- Kubernetes
+- GitHub Actions
+- ArgoCD
+- Docker
 
- 
+### 🔒 Shift-Left Security
 
-🔒 Shift-Left Security CI/CD
+- CodeQL
+- Dependabot
+- Checkov
 
- 
+### 📊 Observability Platform
 
-📊 Observability Stack
+- Prometheus
+- Grafana
+- Monitoring
+- Alerting
 
- 
+### 🏗 Infrastructure as Code
 
-🏗 Infrastructure as Code with Terraform
-### 💻 Languages & Others
-   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg">
-</div>
- 
-<br>
- 
-### To find me click on the networks below!
-### Para me encontrar clique nas redes abaixo!
+- Terraform
+- Cloud Provisioning
+- Automation
+- GitOps
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/deviconscons/amazonwebservices/amazonwebservices-original-wordmark.svg
+
+<img src="n.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg
+
+<img src="https://cdnnet/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg
+
+<img src="https://cdn.jsdelivr.net/gh/evicon/icons/docker/docker-original-wordmark.svg
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/ubactions/githubactions-original.svg
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svgcdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+
+<img src="https://cdn.jsdelivr.net/s/devicon/icons/java/java-original.svg
+
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabsakaokyonight
+
+<img height="180em" src=ats.vercel.app/api/top-langs/?username=fabsakae&layout=compact&theme=tokyonight
+
+</p>
+
+---
+
+## Current Learning Path
+
+🚀 Kubernetes Advanced
+
+🚀 Terraform Modules & Remote State
+
+🚀 Amazon EKS
+
+🚀 OpenTelemetry
+
+🚀 Platform Engineering
+
+🚀 DevSecOps
+
+---
+
+## Let's Connect
+
+📍 Caruaru, PE - Brazil
+
+💼 LinkedIn:
+https://linkedin.com/in/fabíola-sakae-40242841
+
+📧 Contact:
+fabiola.sakae@gmail.com
+
+Thanks for visiting my profile! 🚀
+
  
 <div> 
   <a href="https://www.youtube.com/@Fabsakae" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
