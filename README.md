@@ -6,18 +6,7 @@ AWS • Kubernetes • Terraform • GitHub Actions • ArgoCD • Docker • Li
 
 Building secure, scalable and observable cloud platforms through Infrastructure as Code, GitOps and DevSecOps practices.
 
-<p align="left">
-  https://www.linkedin.com/in/fabíola-sakae-40242841
-    <img src="g.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-  
-  <a href="https://github.com/fabsakae">
-    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-  </a>
-  
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor>
 
----
 
 ## About Me
 
@@ -27,7 +16,7 @@ After more than 20 years leading business operations, I transitioned into Cloud 
 
 Today I focus on building secure, scalable and observable environments through Infrastructure as Code, automation and DevSecOps practices.
 
----
+
 
 ## Highlights
 
@@ -122,38 +111,6 @@ https://github.com/fabsakae/Projeto-Wordpress-na-AWS-com-Docker
 - Cloud Provisioning
 - Automation
 - GitOps
-
----
-
-## Tech Stack
-
-<p align=
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=fabsakae&show_icons=true&theme=tokyonight
-
-  https://github-readme-stats.vercel.app/api/top-langs/?username=fabsakae&layout=compact&theme=tokyonight
-</p>
 
 ---
 
